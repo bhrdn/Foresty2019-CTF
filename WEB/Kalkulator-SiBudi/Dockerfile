@@ -1,10 +1,10 @@
-FROM node:argon-slim
+FROM node
 MAINTAINER KEPO-JANCOK <bhrdn@retas.id>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
-RUN npm install -g pm2 http url path
+RUN npm install -g pm2 http url
 
 COPY src /usr/src/app
 
