@@ -1,0 +1,4 @@
+find . -type f | grep docker | while read x; do
+    WORKDIR=`echo ${x} | sed 's/docker-compose.yml//g'`
+    cd ${WORKDIR} && docker-compose up --build -d
+done;
