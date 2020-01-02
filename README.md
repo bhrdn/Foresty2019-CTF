@@ -7,3 +7,16 @@
 | Reverse Engineering | TBA | TBA |
 | Cryptography | TBA | TBA |
 | Forensic | TBA | TBA |
+
+### Installation
+```bash
+curl -s https://bootstrap.pypa.io/get-pip.py | python
+curl -s https://get.docker.com/ | sh
+service docker start
+pip install docker-compose
+```
+
+### Usage
+```bash
+./runner
+```
