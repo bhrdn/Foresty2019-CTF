@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  main:
+    build: .
+    container_name: tukang-ngegas
+    restart: always
+    ports:
+      - "8100:3000"
+    network_mode: bridge

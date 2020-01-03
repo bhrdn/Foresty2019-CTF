@@ -3,7 +3,7 @@
 | Category | Name | Point |
 | -------- | ---- | ----- |
 | Web Exploitation | Kalkulator Si Budi | TBA |
-| Binary Exploitation | TBA | TBA |
+| Binary Exploitation | Tukang Ngegas | TBA |
 | Reverse Engineering | TBA | TBA |
 | Cryptography | TBA | TBA |
 | Forensic | TBA | TBA |
