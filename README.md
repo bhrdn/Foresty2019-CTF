@@ -7,6 +7,7 @@
 | Reverse Engineering | TBA | TBA |
 | Cryptography | TBA | TBA |
 | Forensic | TBA | TBA |
+| Stegano | TBA | TBA |
 
 ### Installation
 ```bash
