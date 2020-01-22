@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  main:
+    build: .
+    container_name: ngoding-web-skuy
+    restart: on-failure
+    ports:
+      - "9200:80"
+    network_mode: bridge
