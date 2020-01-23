@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  main:
+    build: .
+    container_name: request-me
+    restart: on-failure
+    ports:
+      - "9300:8080"
+    network_mode: bridge
