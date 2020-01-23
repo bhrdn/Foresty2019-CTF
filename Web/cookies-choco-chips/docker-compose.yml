@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  main:
+    build: .
+    container_name: cookies-choco-chips
+    restart: on-failure
+    ports:
+      - "9400:8080"
+    network_mode: bridge
