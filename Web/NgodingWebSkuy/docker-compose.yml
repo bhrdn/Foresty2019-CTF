@@ -6,5 +6,5 @@ services:
     container_name: ngoding-web-skuy
     restart: on-failure
     ports:
-      - "9200:80"
+      - "9200:8080"
     network_mode: bridge
