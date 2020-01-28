@@ -1,13 +1,13 @@
 ## Foresty2019 - CTF Qualification
 
-| Category | Name | Point |
-| -------- | ---- | ----- |
-| Web Exploitation | Kalkulator Si Budi | TBA |
-| Binary Exploitation | Tukang Ngegas | TBA |
-| Reverse Engineering | TBA | TBA |
-| Cryptography | TBA | TBA |
-| Forensic | TBA | TBA |
-| Stegano | TBA | TBA |
+| Category | Name | Point | Flag |
+| -------- | ---- | ----- | ---- |
+| Web Exploitation | Kalkulator Si Budi | TBA | TBA |
+| Binary Exploitation | Tukang Ngegas | TBA | TBA |
+| Reverse Engineering | TBA | TBA | TBA |
+| Cryptography | TBA | TBA | TBA |
+| Forensic | TBA | TBA | TBA |
+| Stegano | TBA | TBA | TBA |
 
 ### Installation
 ```bash
